@@ -20,12 +20,8 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="" />][webdevplaylist]
-
 [<img align="left" alt="HTML5" width="26px" src="" />][webdevplaylist]
-
 [<img align="left" alt="CSS3" width="26px" src="" />][cssplaylist]
-
-
 [<img align="left" alt="JavaScript" width="26px" src="" />][jsplaylist]
 
 <br />
