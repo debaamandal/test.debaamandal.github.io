@@ -1,4 +1,4 @@
-### Hi there, I'm Debaa - aka [HawK On The Internet][website] 👋
+### Hi there, I'm Debaa - aka HawK On The [Internet][website] 👋
 
 ## I'm a Gamer, YouTuber, Computer Enthusiast and a Professional Masterbater
 
