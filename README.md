@@ -1,4 +1,4 @@
-### Hi there, I'm Debaa Mandal and I made this [website.] 👋 [website]
+### Hi there, I'm Debaa Mandal and I made this [website]. 👋
 
 ### Connect with me:
 
