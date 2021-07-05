@@ -1,5 +1,4 @@
-### Hi there, I'm Debaa and I made this website. 👋
-<br />
+### Hi there, I'm Debaa Mandal and I made this website. 👋
 
 ### Connect with me:
 
@@ -8,7 +7,6 @@
 [<img align="left" alt="Debaa | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="debaa.online" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-<br />
 <br />
 
 [instagram]: https://instagram.com/yohxwk/
