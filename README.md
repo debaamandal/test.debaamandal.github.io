@@ -4,14 +4,6 @@
 </p>
 
 <br>
-<!--
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=MRMYSTERY003&label=Profile%20views&color=0e75b6&style=plastic" alt="MRMYSTERY003" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank"/> 
-	</a>
-</p>
--->
 
 ## :sassy_man: About me
 
@@ -23,7 +15,6 @@
 - :thinking: I’m currently open for: `An Colabration` or a new `Project work`.
 - :nerd_face: Always `learning new things`
 
-<br>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
