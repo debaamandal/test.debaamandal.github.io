@@ -3,7 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+enthusiast;Programmer;Youtuber;Always%20learning%20new&center=true&width=500&height=50"></a>
 </p>
 
-
 <br>
 <!--
 <p align="center"> 
@@ -14,7 +13,8 @@
 </p>
 -->
 
-## :sassy_man:  About me
+## :sassy_man: About me
+
 - :school: I am pursuing `Engineering` @ Sairam Engineering College
 - :trophy: An up comming `Youtuber`
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -24,18 +24,10 @@
 - :nerd_face: Always `learning new things`
 
 <br>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MRMYSTERY003&theme=algolia" alt="MRMYSTERY003" /></p>
-
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MRMYSTERY003&show_icons=true&theme=radical)-->
-
 <br>
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+
 <p align="center">
 	<a href="https://github.com/MRMYSTERY003"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/sriram-codehub/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
