@@ -20,5 +20,5 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 
 <p align="center">
-	<a href="https://github.com/DebaaMandal" target="blank"><img src="https://debaaassets.github.io/assets-learning-python/twitter.svg" alt="GitHub"/></a>
+	<a href="https://github.com/DebaaMandal" target="blank"><img src="https://debaaassets.github.io/assets-learning-python/twitter.svg" width="30px" height="auto" alt="GitHub"/></a>
 </p>
